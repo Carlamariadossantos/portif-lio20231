@@ -1,0 +1,14 @@
+body{
+background-image: url(https://i.pinimg.com/564x/5a/d6/cd/5ad6cd6eacdc1c890401a27c65d11c6a.jpg);
+}
+h1{
+   font-family: cursive;
+}
+a{
+    color: white;
+}
+.margem{
+    margin-left: 25em
+    ;
+    margin-right:25em;
+}
